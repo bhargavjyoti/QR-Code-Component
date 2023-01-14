@@ -21,7 +21,7 @@ A QR Code component built using HTML5 and SCSS.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://github.com/bhargavjyoti/qr-code-component)
+- Live Site URL: [Live Preview](https://bhargavjyoti.github.io/qr-code-component/)
 
 ### Built with
 
